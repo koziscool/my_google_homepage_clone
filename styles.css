@@ -1,0 +1,14 @@
+
+
+body{
+  font-family: Helvetica;
+}
+
+.search-container{
+  margin: 250px auto;
+  width: 620px;
+}
+
+.search-bar {
+  width: 500px;
+}
